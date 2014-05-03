@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PizzaApp-v-2</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Home Screen-->
+
+    <string name="home_screen_login_button">Login</string>
+    <string name="home_screen_search_button">Search</string>
+    <string name="home_screen_randomize_button">Randomize</string>
+    <string name="home_screen_featured_button">Featured</string>
+    <string name="home_screen_about_button">About</string>
+    <string name="home_screen_contact_us__button">Contact us</string>
+
+    <!--Login-->
+
+    <string name="login_username_text_view">Username</string>
+    <string name="login_password_text_view">Password</string>
+    <string name="login_username_edit_text"><i>Username</i></string>
+    <string name="login_password_edit_text"><i>Password</i></string>
+    <string name="login_forget_password_text_view">Forget password?</string>
+    <string name="login_register_button">Register!</string>
+    <string name="login_login_button">Login</string>
+    <!--About-->
+
+
+</resources>
